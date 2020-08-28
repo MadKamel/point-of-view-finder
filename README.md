@@ -1,2 +1,3 @@
-# IXL_ELA9_C.1_POV_Finder
-Use it with IXL Language Arts exercise C.1 and it will find the POV of the paragraph given to you.
+# Point of view finder
+
+This python script will try and determine the point of view of a block of text based on how many keywords it finds. VERY broken, as the frequency of keywords is unreliable, especially when quotations are part of the text as they tend to break the POV rules.
