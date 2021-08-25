@@ -2,3 +2,15 @@ From Margaret Atwood, The Handmaid's Tale. Copyright 1985 by Margaret Atwood
 So, you're the new ... over such toeholds.
 
 Notes: Is in first person, presence of 'she' overtakes presense of 'I', tricks program.
+
+==next
+From Iain Banks, Complicity. Copyright 1993 by Iain Banks
+The door opens, towards ... beside the answer-machine.
+
+Notes: Is in second person, presense of third-person keywords tricks program.
+
+==next
+From Harper Lee, To Kill a Mockingbird. Copyright 1960 by Harper Lee
+The Radley Place fascinated ... pole, staring and wondering.
+
+Notes: The passage is describing the actions of another person from another person's view. This comes across as third-person to the bot, which thus comes to the wrong conclusion.
