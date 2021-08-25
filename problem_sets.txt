@@ -14,3 +14,15 @@ From Harper Lee, To Kill a Mockingbird. Copyright 1960 by Harper Lee
 The Radley Place fascinated ... pole, staring and wondering.
 
 Notes: The passage is describing the actions of another person from another person's view. This comes across as third-person to the bot, which thus comes to the wrong conclusion.
+
+==next
+From William Faulkner, As I Lay Dying. Copyright 1930 by William Faulkner
+Pa and Vernon are ... "Where's Jewel?" pa says.
+
+Notes: This passage is in First-person, but there are more third-person keywords than first-person keywords. Similar to first three problem sets.
+
+==next
+From Yann Martel, Life of Pi. Copyright 2001 by Yann Martel
+The day I came of swimming age, which, to Mother's distress, Mamaji claimed was seven, he brought me down to the beach, spread his arms seaward and said, "This is my gift to you." "And then he nearly drowned you," claimed Mother.
+
+Notes: This one was interesting. There are several second-person keywords, but they do NOT REGISTER AT ALL. This is most likely due to the fact that these words are right next to a punctuation mark without any spaces. This is a known issue, but it has not been fixed yet. A possible fix could be removing punctuation during pre-processing/parsing.
