@@ -14,9 +14,9 @@ while GOING:
         pass
 
     for i in range(len(splittext)):
-        if splittext[i].lower() == 'you':
+        if splittext[i].lower() in ['you', 'your', 'yours']:
             sec = sec + 1
-        elif splittext[i].lower() in ['i', 'me', 'we', 'our', 'my', 'i\'m']:
+        elif splittext[i].lower() in ['i', 'me', 'we', 'our', 'my', 'i\'m', 'myself']:
             frst = frst + 1
         elif splittext[i].lower() in ['he', 'she', 'they', 'him', 'her', 'himself', 'herself', 'their']:
             thrd = thrd + 1
